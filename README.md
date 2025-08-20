@@ -10,7 +10,7 @@ This repository contains Postman collections for testing SOAPTC APIs.
 
 ## Running Tests Locally
 
-1. **Install Newman (Postman CLI runner)**
+1. **Install Newman (Postman CLI runner)** :
 npm install -g newman
 
 3. **Run the collection**
