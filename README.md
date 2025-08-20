@@ -13,10 +13,10 @@ This repository contains Postman collections for testing SOAPTC APIs.
 1. **Install Newman (Postman CLI runner)** :
 npm install -g newman
 
-3. **Run the collection**
+3. **Run the collection** : 
 newman run postman/collections/SOAP\ Testcases\ Collection.postman_collection.json
 
-4. **Run with an environment (optional)**
+4. **Run with an environment (optional)** : 
 newman run postman/collections/SOAP\ Testcases\ Collection.postman_collection.json \--environment postman/environments/dev.postman_environment.json
 
 
